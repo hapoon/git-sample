@@ -3,5 +3,6 @@ This is added by branch-a.
 This is added by branch-b.
 This is added by branch-a.
 This is added by branch-b.
+This is added by branch-a.
 This is added by branch-b.
 
