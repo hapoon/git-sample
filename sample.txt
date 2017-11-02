@@ -12,6 +12,7 @@ This is added by branch-b(twice).
 aaa
 bbb
 bbb
+ddd
 eee
 fff
 
